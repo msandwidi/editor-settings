@@ -27,3 +27,33 @@
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "breadcrumbs.enabled": true
 }
+
+{
+    "editor.fontSize": 18,
+    "editor.wordWrap": "on",
+    "terminal.integrated.fontSize":18,
+    "editor.tabSize": 4,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "extensions.ignoreRecommendations": false,
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.commandPalette.history": 100,
+    "workbench.startupEditor": "none",
+    "workbench.colorCustomizations": {
+        "[One Dark Pro]": {
+            "sideBar.background": "#0e0f0f",
+            "editorLineNumber.foreground":"#ccc7c7",
+            "editor.background": "#122936",
+        }
+    },
+    "vsicons.projectDetection.disableDetect": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "team.showWelcomeMessage": false,
+    "terminal.integrated.shell.osx": "C:\\Program Files\\Git\\bin",
+    "terminal.integrated.shell.linux": "C:\\Program Files\\Git\\bin",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "breadcrumbs.enabled": true
+}
