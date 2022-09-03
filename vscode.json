@@ -57,3 +57,122 @@
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "breadcrumbs.enabled": true
 }
+
+
+{
+  "editor.fontSize": 16,
+  "editor.wordWrap": "on",
+  "terminal.integrated.fontSize":16,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "extensions.ignoreRecommendations": false,
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Material Theme Darker High Contrast",
+  "workbench.commandPalette.history": 100,
+  "workbench.startupEditor": "none",
+  "workbench.colorCustomizations": {
+      "[One Dark Pro]": {
+          "sideBar.background": "#0e0f0f",
+          "editorLineNumber.foreground":"#ccc7c7",
+          "editor.background": "#122936",
+      }
+  },
+  "vsicons.projectDetection.disableDetect": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "breadcrumbs.enabled": true,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+  },
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "path": "C:\\Program Files\\Git",
+      "args": []
+    }
+  },
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "/public/css"
+    }
+  ],
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "debug.console.fontSize": 18,
+  "[javascript]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "dart.warnWhenEditingFilesInPubCache": false,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "standard.autoFixOnSave": true,
+  "redhat.telemetry.enabled": false,
+  "workbench.editor.untitled.hint": "hidden",
+  "mssql.connections": [
+    {
+      "server": "{{put-server-name-here}}",
+      "database": "{{put-database-name-here}}",
+      "user": "{{put-username-here}}",
+      "password": ""
+    }
+  ],
+  "security.workspace.trust.untrustedFiles": "newWindow",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "[yaml]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode"
+  },
+  "javascript.preferences.quoteStyle": "double",
+  "autoimport.doubleQuotes": true,
+  "vscOrganizeImports.formatOnSave": false,
+  "[scss]": {
+    "editor.defaultFormatter": "Wscats.eno"
+  },
+  "[handlebars]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "[css]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode"
+  },
+  "editor.tabSize": 2,
+  "C_Cpp.default.cppStandard": "c++20",
+  "csharpextensions.privateMemberPrefix": "_",
+  "csharpextensions.useThisForCtorAssignments": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "numso.prettier-standard-vscode"
+  },
+  "cmake.configureOnOpen": false
+}
