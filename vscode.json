@@ -60,6 +60,9 @@
 
 
 {
+  "editor.tokenColorCustomizations": {
+    "comments": "#33ff33",
+  },
   "editor.fontSize": 16,
   "editor.wordWrap": "on",
   "terminal.integrated.fontSize":16,
